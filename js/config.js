@@ -196,7 +196,7 @@ const CONFIG = {
       category: 'Other',
       name: 'Notion',
       key: 'ns',
-      url: 'https://www.notion.so',
+      url: 'https://www.notion.com',
       color: 'linear-gradient(135deg, #FFF, #3F3F3F)',
       icon: 'notion',
       quickLaunch: true,
